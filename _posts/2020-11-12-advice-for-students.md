@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advice for students... and everyone else
+title: Career advice for students... and everyone else
 subtitle: Tips for helping you navigate your interests and the job world
 categories: [career]
 tags: 
