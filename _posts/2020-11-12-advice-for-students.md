@@ -7,7 +7,7 @@ tags:
 banner: "/assets/images/banners/green1.png"
 ---
 
-I majored in Mechanical Engineering for my undergraduate degree, and the following are lessons learned from my experience in school and my first few years in industry after graduation. I've tried to generalize my thoughts with the hope that people of various disciplines walk away with tips they can pursue further.
+I majored in Mechanical Engineering for my undergraduate degree. The following are lessons learned from my experience in school and my first few years in industry after graduation. I've tried to generalize my thoughts with the hope that people of various disciplines walk away with tips they can pursue further.
 
 ## Learn what you enjoy and what you don't
 
