@@ -12,7 +12,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A collection of writing on topics I'm passionate about.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tamzinatkins.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -89,8 +89,6 @@ header_pages:
   - categories.html
   - archives.html
   - about.html
- # - tags.html
- 
 
 # Page default value
 defaults:
@@ -108,8 +106,8 @@ defaults:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
-#   repo: "The repo to store comments"
+#   username: "tamzinatkins"
+#   repo: "offmychest"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
