@@ -43,6 +43,6 @@ For example, a few roles that leverage a background in mechanical engineering in
 * controls engineer
 * systems engineer
 
-## Am I happy with my decisions to major in mechanical engineering?
+## Am I happy with my decision to major in mechanical engineering?
 
 Yes - although while I was a student, I couldn't tell you what I wanted to do with my degree - I knew I enjoyed math and science. While working in industry, I've discovered that I really enjoy project management and data analysis. As I write this, my current job title is *Technical Project Manager*, and after reflecting on my time in college, I noticed my role combines some of my favorite parts of school and my interests in general: I enjoy being organized and designing processes to allow myself and others to follow the same procedures to work better together (let it be project planning, or documentation), and I enjoy being a team leader, rallying people together. I have a track record of this while I was in school - both in class projects and working as a TA for several of my professors, serving as a resource to students. In my current role, I get to interface with technical coworkers of various engineering backgrounds to solve engineering problems. I leverage my degree as my foundation of technical understanding, to be an educated individual in the conversation, able to provide my own thoughts and understand my coworkers, and continue learning when discussing issues with other engineers.
