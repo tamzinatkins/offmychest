@@ -94,7 +94,7 @@ header_pages:
 defaults:
   home:
     heading: "off my chest"
-    subheading: "a collection of my thoughts"
+    subheading: "my life experience + passions"
     banner: "/assets/images/banners/blue1.png"
 
 # Pagination setting
