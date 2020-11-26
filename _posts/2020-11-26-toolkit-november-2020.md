@@ -19,7 +19,7 @@ My go-to pump-up song.
 
 ## Podcasts
 
-**The Intentional Advantage (formally called The Productivity Paradox)**
+**The Intentional Advantage**
 
 This podcast really helps me self-reflect. Host Tanya Dalton discusses topics surrounding career and productivity, and themes each season, comprised of approximately 13 episodes. Learn more about the podcast [here](https://tanyadalton.com/podcast). For example, the theme for Season 15, which wrapped up recently, was *strategies for success*. Two episodes I really enjoyed from Season 15 were:
 
