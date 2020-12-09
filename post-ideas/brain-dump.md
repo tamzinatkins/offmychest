@@ -26,7 +26,13 @@ Discovery Corps at Pacific Science Center
 
 My love for post it notes
 
+How I make a dependency diagram - use EU Repair center as the skeleton of an example - remake fake diagram
 
+ANatomy of proejcts (management)
+* skeleton - team members
+* nervous system
+* digestive system - progress, health
+* muscular system
 
 ---
 
@@ -84,3 +90,7 @@ The title seems dark, but give it a go. It's funny, it's dark, and it serves as 
 this idea of knowing the flip-side is valuable elsewhere - not just saying you don't want to work anymore tonight, but then not providing yourself WITH an activity of what TO do, that I find myself falling back into doing work instead of some other personal activity, because I simply didn't know what TO do.
 
 After college, you're very likely to be working on a team with engineers of different disciplines, as well as non-engineers - be open to learning about their disciplines and don't bash their chosen discipline - respect everyone equally - 
+
+
+Why I didn't consider CS in college
+I thought computer science wasn't for me - because I'm female. So I didn't try it. I felt like I wanted to open the computer science education door, and take a peak, and subsequently slammed it shut - and I regret not feeling comfortable to explore it more. I felt like it was my job to get in and out (aka: graduate in four years) - take my requirements to graduate, not wanting to pay for additional courses.
