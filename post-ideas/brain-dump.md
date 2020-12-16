@@ -42,7 +42,7 @@ In the movie, Edith, a woman of color and a social activist, asked Sherlock Holm
 
 ---
 
-# Confidence Kit - October 2020
+## Confidence Kit - October 2020
 
 that have empowered me to be intentional and happy. I use these resources for career growth, as well as navigating life in general.
 
@@ -94,3 +94,5 @@ After college, you're very likely to be working on a team with engineers of diff
 
 Why I didn't consider CS in college
 I thought computer science wasn't for me - because I'm female. So I didn't try it. I felt like I wanted to open the computer science education door, and take a peak, and subsequently slammed it shut - and I regret not feeling comfortable to explore it more. I felt like it was my job to get in and out (aka: graduate in four years) - take my requirements to graduate, not wanting to pay for additional courses.
+
+---
