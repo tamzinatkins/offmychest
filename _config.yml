@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: off my chest
+title: tamzin atkins
 email: tamzinatkins@gmail.com
 author: Tamzin Atkins
 copyright: Copyright © 2020
@@ -93,7 +93,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "off my chest"
+    heading: "tamzin's blog"
     subheading: "my life experience + passions"
     banner: "/assets/images/banners/blue1.png"
 
