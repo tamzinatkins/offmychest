@@ -38,7 +38,7 @@ It's also important to remember that personal growth is only natural. We'll meet
 
 Side note: It's no coincidence that I enjoy Matt D'Avella's [YouTube channel](https://www.youtube.com/user/blackboxfilmcompany). Matt is the director of both *Minimalism* and *The Minimalists: Less Is Now*. I also invite you to check out Matt's content.
 
-## Bringing more intionality into my life
+## Bringing more intentionality into my life
 
 ### Reading and Writing
 
