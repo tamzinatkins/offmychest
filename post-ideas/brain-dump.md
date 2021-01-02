@@ -282,3 +282,4 @@ There's a saying: "you can't pour from an empty cup." People often use the examp
 Do something for me every day and enjoy the moment. Here are some examples that I'll be practicing more often:
 * Spend an extra few minutes to use an exfoliating face scrub twice a week
 ---
+And if comparing yourself against other humans isn't overwhelming enough, we're constantly bombarded with advertisements telling us that we aren't good enough. That only after we purchase their product, will we be happy. That we need this hair dye to be beautiful. Or, we'll feel on top of the world once we purchase that car.
