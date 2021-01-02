@@ -26,7 +26,7 @@ Because I'm a strong believer that **better is good**. Progress is success. I'm 
 
 *What little steps or actions can you take every single day to move your needle?*
 
-With a year like 2020, we know all too well that a forthcoming year may not go as we had planned. I like the  malleability of a yearly theme, and sprinkle in some measurable goals along the way. I want to feel content with what I accomplish each day, and be happpy with how I spent my time that day. It's not about getting everything done, rather getting everything I want to get done, done.
+With a year like 2020, we know all too well that a year may not go as we had planned. I like the malleability of a yearly theme, and sprinkle in some measurable goals along the way. I want to feel content with what I accomplish each day, and be happpy with how I spent my time that day. It's not about getting everything done, rather getting everything I want to get done, done.
 
 ## Why intention?
 
