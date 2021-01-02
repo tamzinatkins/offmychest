@@ -47,7 +47,7 @@ I started this blog late in 2020, and I want to continue posting on a regular ba
 I also want to journal every week to spend time reflecting and exploring thoughts. What I'm grateful for. Recounting a transformative experience. Or diving deeper into a conversation I had earlier with a friend. Some of these topics will be shared here on this blog.
 
 ### Coloring
-Continuing within the creativity realm, I love how therapeutic I find coloring books to be. This is another activity I started in 2020 and one want to bring into 2021 and beyond. I started with this [coloring book](https://www.johannabasford.com/book/secret-garden/). I find it to be relaxing, and a nice way to wind down in the evening.
+Continuing within the creativity realm, I love how therapeutic I find coloring books to be. This is another activity I started in 2020 and one want to bring into 2021 and beyond. I started with this [coloring book](https://www.johannabasford.com/book/secret-garden/). I find it to be relaxing, and a nice way to wind down.
 
 ### Do nothing
 
