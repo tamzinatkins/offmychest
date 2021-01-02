@@ -51,7 +51,7 @@ Continuing within the creativity realm, I love how therapeutic I find coloring b
 
 ### Do nothing
 
-I want to do nothing. Intentionally. Doing nothing is a struggle, so I want to integrate meditation into my daily life. To be more present, and less distracted. With my busy brain, I'm often asking myself, "how is this productive?" Read: what chore should I be doing? What space could I tidy? Guess what. Rest is important too. Burnout is real. I want to enjoy more small moments each day, and pace myself for a long and marvelous life. 
+I want to do nothing. Intentionally. Doing nothing is a struggle, so I want to integrate meditation into my daily life. To be more present, and less distracted. With my busy brain, I'm often asking myself, "how is this productive?" Read: what chore should I be doing? What space could I tidy? Guess what. Rest is important. I want to enjoy more small moments each day, and pace myself for a long and marvelous life. 
 
 ### Limit my scrolling
 
