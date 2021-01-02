@@ -11,7 +11,7 @@ I'm not making any New Year's resolutions. Instead, I've decided to follow a yea
 
 ## What is a yearly theme?
 
-The "yearly theme" was introduced to me while listening to the podcast [Cortex](https://www.relay.fm/cortex), hosted by CGP Grey and Myke Hurley. A yearly theme puts an emphasis on making forward progress - moving the needle from your current state towards where you want to be. And, themes are meant to be broad.
+The yearly theme was introduced to me while listening to the podcast [Cortex](https://www.relay.fm/cortex), hosted by CGP Grey and Myke Hurley. A yearly theme puts an emphasis on making forward progress - moving the needle from your current state towards where you want to be. And, themes are meant to be broad.
 
 *What are you looking to achieve? What do you want to focus on? What do you want to improve upon?*
 
