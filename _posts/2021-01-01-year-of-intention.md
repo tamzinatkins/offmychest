@@ -30,13 +30,13 @@ With a year like 2020, we know all too well that a year may not go as we had pla
 
 ## Why intention?
 
-To be intentional in making progress, I must focus on myself, and my needle, and not compare myself to others. I ended 2020 listening to Jen Sincero's [You are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) audiobook for a nice momentum boost, and I began 2021 watching [The Minimalists: Less Is Now](https://www.netflix.com/title/81074662?mc_cid=10dd42fde5&mc_eid=4a862fbef5) on Netflix. Less is Now is a continuation of the story told in [Minimalism](https://www.netflix.com/title/80114460?s=a&trkid=13747225&t=cp) (also on Netflix), and in part, discusses the importance of looking within - *what is your definition of success and happiness?* Because others will have their own, and different criteria. Comparing ourselves to others is overwhelming, and unnecessary.
+To be intentional in making progress, I must focus on myself, and my needle, and not compare myself to others. I ended 2020 listening to Jen Sincero's [You are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) audiobook for a nice momentum boost, and I began 2021 watching [The Minimalists: Less Is Now](https://www.netflix.com/title/81074662?mc_cid=10dd42fde5&mc_eid=4a862fbef5) on Netflix. *Less is Now* is a continuation of the story told in [Minimalism](https://www.netflix.com/title/80114460?s=a&trkid=13747225&t=cp) (also on Netflix), and in part, discusses the importance of looking within - *what is your definition of success and happiness?* Because others will have their own, and different criteria. Comparing ourselves to others is overwhelming, and unnecessary.
 
 It's also important to remember that personal growth is only natural. We'll meet our own goals and seek out new ones. We evolve, and so will our goals and definitions of success and happiness. I want to be mindful that I'm changing me for me, and not for impressing others.
 
-Less is Now asks the viewer to reflect on this question: *what brings value to your life?*
+*Less is Now* asks the viewer to reflect on this question: *what brings value to your life?*
 
-Side note: It's no coincidence that I enjoy Matt D'Avella's [YouTube channel](https://www.youtube.com/user/blackboxfilmcompany). Matt is the director of both Minimalism and Less is Now. I also invite you to check out Matt's content.
+Side note: It's no coincidence that I enjoy Matt D'Avella's [YouTube channel](https://www.youtube.com/user/blackboxfilmcompany). Matt is the director of both *Minimalism* and *The Minimalists: Less Is Now*. I also invite you to check out Matt's content.
 
 ## Bringing more intionality into my life
 
