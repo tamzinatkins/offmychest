@@ -28,11 +28,7 @@ My love for post it notes
 
 How I make a dependency diagram - use EU Repair center as the skeleton of an example - remake fake diagram
 
-ANatomy of proejcts (management)
-* skeleton - team members
-* nervous system
-* digestive system - progress, health
-* muscular system
+
 
 ---
 
