@@ -279,3 +279,7 @@ Do something for me every day and enjoy the moment. Here are some examples that 
 * Spend an extra few minutes to use an exfoliating face scrub twice a week
 ---
 And if comparing yourself against other humans isn't overwhelming enough, we're constantly bombarded with advertisements telling us that we aren't good enough. That only after we purchase their product, will we be happy. That we need this hair dye to be beautiful. Or, we'll feel on top of the world once we purchase that car.
+
+
+
+In my first ocnversation with Cami, I was shying away from HW PMs due to imposter syndrome - where what I find to be the most challenging or intimidating (talking with CMs) and traveling to the CM - was so reqarding and was an awesome growing experience.
