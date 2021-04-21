@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-translate-customization" content="108d9124921d80c3-80e20d618ff053c8-g4f02ec6f3dba68b7-c">
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Sprint | tamzin atkins</title>
+<meta name="generator" content="Jekyll v4.2.0">
+<meta property="og:title" content="Sprint">
+<meta name="author" content="Tamzin Atkins">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="As I became more and more interested in product development, I found the book Sprint, by Jake Knapp, John Zeratsky, and Braden Kowitz. I am familiar with agile practices, and understand the practice of two week software sprints to work towards a customer software release, but the one week design sprint was new to me. Sprint details a process to find answers quickly to - typically - business case questions, aiming to provide a successful prototype quickly. I’ve identified six categories regarding what I learned and points that stood out to me.">
+<meta property="og:description" content="As I became more and more interested in product development, I found the book Sprint, by Jake Knapp, John Zeratsky, and Braden Kowitz. I am familiar with agile practices, and understand the practice of two week software sprints to work towards a customer software release, but the one week design sprint was new to me. Sprint details a process to find answers quickly to - typically - business case questions, aiming to provide a successful prototype quickly. I’ve identified six categories regarding what I learned and points that stood out to me.">
+<link rel="canonical" href="http://tamzinatkins.com/book%20notes/2021/02/19/sprint-review.html">
+<meta property="og:url" content="http://tamzinatkins.com/book%20notes/2021/02/19/sprint-review.html">
+<meta property="og:site_name" content="tamzin atkins">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-02-19T00:00:00+00:00">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Sprint">
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Tamzin Atkins"},"description":"As I became more and more interested in product development, I found the book Sprint, by Jake Knapp, John Zeratsky, and Braden Kowitz. I am familiar with agile practices, and understand the practice of two week software sprints to work towards a customer software release, but the one week design sprint was new to me. Sprint details a process to find answers quickly to - typically - business case questions, aiming to provide a successful prototype quickly. I’ve identified six categories regarding what I learned and points that stood out to me.","url":"http://tamzinatkins.com/book%20notes/2021/02/19/sprint-review.html","@type":"BlogPosting","headline":"Sprint","dateModified":"2021-02-19T00:00:00+00:00","datePublished":"2021-02-19T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://tamzinatkins.com/book%20notes/2021/02/19/sprint-review.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="shortcut icon" href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-noto-sans@0.0.72/index.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
+  <!-- and it's easy to individually load additional languages -->
+  <script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/languages/go.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <script src="/assets/js/main.js"></script><link type="application/atom+xml" rel="alternate" href="http://tamzinatkins.com/feed.xml" title="tamzin atkins">
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="site-header site-header-transparent" role="banner">
+
+  <div class="wrapper">
+    <div class="site-header-inner">
+<span class="site-brand"><a class="site-brand-inner" rel="author" href="/">
+  <img class="site-favicon" title="tamzin atkins" src="" onerror="this.style.display='none'">
+  tamzin atkins
+</a>
+</span><nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger">
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewbox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+              </svg>
+            </span>
+          </label>
+
+          <div class="trigger">
+<a class="page-link" href="/">HOME</a><a class="page-link" href="/categories.html">CATEGORIES</a><a class="page-link" href="/archives.html">ARCHIVES</a><a class="page-link" href="/about.html">ABOUT</a>
+
+
+
+
+<span class="page-link">
+
+<div id="google_translate_element" style="display: none;">
+</div>
+
+<span class="ct-language">
+  <ul class="list-unstyled ct-language-dropdown">
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="en">
+          
+          <img src="https://www.countryflags.io/us/flat/64.png" title="English">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="fr">
+          
+          <img src="https://www.countryflags.io/fr/flat/64.png" title="Franch">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="zh-CN">
+          
+          <img src="https://www.countryflags.io/cn/flat/64.png" title="Chinese(Simple)">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ja">
+          
+          <img src="https://www.countryflags.io/jp/flat/64.png" title="Japan">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ko">
+          
+          <img src="https://www.countryflags.io/kr/flat/64.png" title="Korean">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ru">
+          
+          <img src="https://www.countryflags.io/ru/flat/64.png" title="Russia">
+          
+        </a>
+      </li>
+    
+  </ul>
+</span>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: '',
+    autoDisplay: false,
+    layout: google.translate.TranslateElement.InlineLayout.VERTICAL
+  }, 'google_translate_element');
+
+  function restoreLang() {
+    var iframe = document.getElementsByClassName('goog-te-banner-frame')[0];
+    if (!iframe) return;
+
+    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+    var restore_el = innerDoc.getElementsByTagName("button");
+
+    for (var i = 0; i < restore_el.length; i++) {
+      if (restore_el[i].id.indexOf("restore") >= 0) {
+        restore_el[i].click();
+        var close_el = innerDoc.getElementsByClassName("goog-close-link");
+        close_el[0].click();
+        return;
+      }
+    }
+  }
+
+  function triggerHtmlEvent(element, eventName) {
+    var event;
+    if (document.createEvent) {
+      event = document.createEvent('HTMLEvents');
+      event.initEvent(eventName, true, true);
+      element.dispatchEvent(event);
+    } else {
+      event = document.createEventObject();
+      event.eventType = eventName;
+      element.fireEvent('on' + event.eventType, event);
+    }
+  }
+
+  var googleCombo = document.querySelector("select.goog-te-combo");
+  var langSelect = document.querySelector('.ct-language');
+  langSelect.addEventListener('click', function(event) {
+    if (!event.target) {
+      return;
+    }
+
+    var selected = document.querySelector('.ct-language .ct-language-selected');
+    if (selected) {
+      selected.classList.remove('ct-language-selected');
+    }
+
+    var target = event.target;
+    while (target && target !== langSelect ) {
+      if (target.matches('.lang-select')) {
+        break;
+      }
+      target = target.parentElement;
+    }
+
+    if (target && target.matches('.lang-select')) {
+      var lang = target.getAttribute('data-lang');
+      if (googleCombo.value == lang) {
+        restoreLang();
+      } else {
+        target.parentElement.classList.add('ct-language-selected');
+        googleCombo.value = lang;
+        triggerHtmlEvent(googleCombo, 'change');
+      }
+    }
+
+    event.preventDefault();
+  });
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</span>
+</div>
+        </nav>
+</div>
+  </div>
+</header>
+
+<script>
+  (function() {
+    var lastScrollY = getScrollPos().y;
+    var documentElement = document.documentElement;
+
+    function storeScrollData() {
+      var y = getScrollPos().y;documentElement.setAttribute("data-header-transparent", "");var scrollStatus = "";
+
+      if (y <= 0) {
+        scrollStatus = "top";
+      } else if ((window.innerHeight + y) >= document.body.offsetHeight) {
+        scrollStatus = "bottom";
+      } else {
+        var isScrollDown = (y - lastScrollY > 0) ? true : false;
+        scrollStatus = isScrollDown ? "down" : "up";
+      }
+
+      lastScrollY = y;
+      documentElement.setAttribute("data-scroll-status", scrollStatus);
+    }
+
+    window.addEventListener('scroll', function(e) {
+      storeScrollData();
+    });
+
+    storeScrollData();
+  })();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <section class="page-banner">
+    <div class="page-banner-img">
+      <div style="background-image: url(/assets/images/banners/red-orange-lines.png)"></div>
+    </div>
+    <div class="wrapper">
+      <div class="page-banner-inner">
+<header class="post-header">
+  <h1 class="post-title p-name" itemprop="name headline">Sprint</h1>
+  <h3 class="post-subtitle">Book notes</h3>
+
+  <p class="post-meta">
+    <time class="dt-published" datetime="2021-02-19T00:00:00+00:00" itemprop="datePublished"><i class="fa fa-calendar"></i> Feb 19, 2021
+    </time>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 9 mins</span>
+  </p></header>
+</div>
+    </div>
+  </section><script>
+  function hashLocate(hashValue) {
+    hashValue = hashValue.replace(/^.*#h-/, '');
+    var element = document.getElementById(hashValue);
+
+    if (!element) {
+      return;
+    }
+
+    var header = document.querySelector('header.site-header');
+    var headerRect = header.getBoundingClientRect();
+    var headerTop = Math.floor(headerRect.top);
+    var headerHeight = Math.floor(headerRect.height);
+    var scrollPos = getScrollPos();
+    var offsetY = element.offsetTop - (headerTop + headerHeight + 20);
+
+    if (offsetY == scrollPos.y) {
+      return;
+    }
+
+    if (headerTop == 0  && offsetY > scrollPos.y) {
+      offsetY += headerHeight + 2;
+    } else if (headerTop < 0  && offsetY < scrollPos.y) {
+      offsetY -= headerHeight - 2;
+    }
+
+    smoothScrollTo(offsetY);
+  }
+
+  // The first event occurred
+  window.addEventListener('load', function(event) {
+    if (window.location.hash) {
+      hashLocate(window.location.hash);
+    }
+  });
+
+  // The first event occurred
+  window.addEventListener('click', function(event) {
+    if (event.target.tagName.toLowerCase() == 'a') {
+      hashLocate(event.target.getAttribute('href'));
+    }
+  });
+</script>
+<div class="theme-toggle">
+  <input type="checkbox" id="theme-switch">
+  <label for="theme-switch">
+    <div class="toggle"></div>
+    <div class="names">
+      <p class="light">Light</p>
+      <p class="dark">Dark</p>
+    </div>
+  </label>
+</div>
+
+
+
+
+<script>
+  (function() {
+    var sw = document.getElementById('theme-switch');
+    var html = document.getElementsByTagName('html')[0];
+    var themeData = loadThemeData();
+
+    function saveThemeData(data) {
+      localStorage.setItem('theme', JSON.stringify(data));
+    }
+
+    function loadThemeData() {
+      var data = localStorage.getItem('theme');
+      try {
+        data = JSON.parse(data ? data : '');
+      } catch(e) {
+        data = { nightShift: false, autoToggleAt: 0 };
+        saveThemeData(data);
+      }
+      return data;
+    }
+
+    function handleThemeToggle(nightShift) {
+      themeData.nightShift = nightShift;
+      saveThemeData(themeData);
+      html.dataset.theme = nightShift ? 'dark' : 'light';
+      setTimeout(function() {
+        sw.checked = nightShift ? true : false;
+      }, 50);
+    }
+
+    function autoThemeToggle() {
+      // Next time point of theme toggle
+      var now = new Date();
+      var toggleAt = new Date();
+      var hours = now.getHours();
+      var nightShift = hours >= 19 || hours <=7;
+
+      if (nightShift) {
+        if (hours > 7) {
+          toggleAt.setDate(toggleAt.getDate() + 1);
+        }
+        toggleAt.setHours(7);
+      } else {
+        toggleAt.setHours(19);
+      }
+
+      toggleAt.setMinutes(0);
+      toggleAt.setSeconds(0);
+      toggleAt.setMilliseconds(0)
+
+      var delay = toggleAt.getTime() - now.getTime();
+
+      // auto toggle theme mode
+      setTimeout(function() {
+        handleThemeToggle(!nightShift);
+      }, delay);
+
+      return {
+        nightShift: nightShift,
+        toggleAt: toggleAt.getTime()
+      };
+    }
+
+    // Listen the theme toggle event
+    sw.addEventListener('change', function(event) {
+      handleThemeToggle(event.target.checked);
+    });
+
+    var nightModeOption = 'auto';
+    nightModeOption = nightModeOption.toLowerCase();
+
+    if (nightModeOption == 'auto') {
+      var data = autoThemeToggle();
+
+      // Toggle theme by local setting
+      if (data.toggleAt > themeData.autoToggleAt) {
+        themeData.autoToggleAt = data.toggleAt;
+        handleThemeToggle(data.nightShift);
+      } else {
+        handleThemeToggle(themeData.nightShift);
+      }
+    } else if (nightModeOption == 'manual') {
+      handleThemeToggle(themeData.nightShift);
+    } else {
+      handleThemeToggle(nightModeOption == 'on');
+    }
+  })();
+</script>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="framework">
+  <section class="main">
+
+     <div class="post">
+  <section>
+
+
+
+
+
+
+
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <div class="post-content e-content" itemprop="articleBody">
+
+      <p>As I became more and more interested in product development, I found the book <em>Sprint</em>, by Jake Knapp, John Zeratsky, and Braden Kowitz. I am familiar with agile practices, and understand the practice of two week software sprints to work towards a customer software release, but the one week design sprint was new to me. <em>Sprint</em> details a process to find answers quickly to - typically - business case questions, aiming to provide a successful prototype quickly. I’ve identified six categories regarding what I learned and points that stood out to me.</p>
+
+<h2 id="golden-nuggets">Golden Nuggets</h2>
+
+<p>Several points in the book allowed me to reflect on having the proper mindset, and planning my day in order to be productive. Distractions are everywhere, and providing a bit of strutcure can help mitigate those urges to detract from the task at hand. It takes approximately “23 minutes for distracted workers to return to the task at hand” (39). For me, my distractions include a pressure to reply to a recent Slack message immediately, beginning to work on a more “fun” task than the one I really should be working on, and checking email too often. All of this task fragmentation impedes my ability to get focused and find my <a href="https://tamzinatkins.com/productivity/2020/11/27/finding-your-flow-state.html">flow state</a>. I’m the most productive in my flow state, and it’s easier to find that flow state when I’m motivated. As the authors write, “you probably feel the most productive when you’re doing” something “you’re especially good at” (218). It’s so important to me to enjoy what I do, so that I’m all the more motivated to get tasks done, and enjoy the process of working towards completion. Having “six working hours in the typical sprint day” is a reminder to myself to prioritize quality over quantity when it comes to work (39). It’s a reminder to work with myself and listen to my body. If I’m working for 20 minutes, but all I’m doing is metaphorically banging my head against the wall, am I really working? I’m certainly not making progress on the task I had laid out before me. I’m tired or struggling to find motivation, and now may be stressed, having seemingly wasted the last 20 minutes. Take a break from that task and revisit it later. The authors suggest to “run a sprint anytime you’re not sure what to do, struggling to get started, or dealing with a high stakes decision” (230).</p>
+
+<h2 id="sprint-focus">Sprint Focus</h2>
+
+<p>Before you begin, it’s helpful to understand the end goal you’re working towards. As the authors put it, “start at the end” (55). I really like the mindset of turning the problem into questions - putting the issue at hand in a more positive light - moving beyond stating that there is a problem, and following up with being open to accepting possible solutions. This is imperative to my work on a daily basis, and likely that of many others. These questions are called your sprtint questions. What questions do you “want to answer in this sprint?” (57). “Turning these potential problems into questions make them easier to track - and easier to answer with sketches, prototypes, and tests. It also creates a subtle shift from uncertainty (which is uncomfortable) to curiosity (which is exciting)” (57-58). After brainstorming sprint questions, you’ll move on to “choose a target for your sprint” (84). With a week where you have your team’s undivided attention because all other meetings have been erased from the calendar, what do you want to build a prorotype for and test at the end of the week, knowing you have a group of people’s precious time for 5 days? After you’ve selected a target, review the list of sprint questions; “one or more should line up with the target” (88). This question will be your guiding light, as it’s the question you’re looking to answer by the end of the week.</p>
+
+<h2 id="facilitator">Facilitator</h2>
+
+<p>As a project manager, I took a keen interest in the facilitator role, which comes with its own ABC slogan: “always be capturing” - a quote by Josh Porter (89). (In sales, ABC refers to always be closing.) A great way to capture ideas is to press your team further, even when the answer may seem obvious. Pretend you’re an outsider, who isn’t familiar with any of the topics the team is familiar with (90). This runs in the same vein as the Five Whys technique when pressing to find root cause or explore underlying cause-and-effect relationships. Put simply, ask “why?” multiple times to dig deeper into what the underlying issue may be. In addition to asking why, “ask open-ended questions” and steer away from any leading questions (212). While extracting thoughts from people’s heads, it’s also the facilitator’s role to ensure the group stays on track, focused on the agreed upon task at hand. In terms of a design sprint, prevent new ideas creeping in during middle of sprint. When someone brings up something that detracts from the design sprint task at hand, acknolwedge it as a valid point, take note, but table for now - perhaps this will be something that gets discussed in the coming weeks, but for now, it’s time to focus on the design sprint (159). This acknolwedgement, taking note, and tabling discussions is also an important practice in meetings. You show respect to the individual who introudced it, and as it’s deemed appropriate, schedule another meeting - dedicated time to discuss this new item.</p>
+
+<h2 id="decision-making">Decision Making</h2>
+
+<p>Parkinson’s Law states “work expands so as to fill the time available for its completion,” as stated by Cyril Northcote Parkinson himself in an essay entitled <em>Parkinson’s Law</em>, published in The Economist in 1955. When you must identify an issue, build a prototype, and test it all in one week, quickly making decisions is crucial. One way to cut down on the decision making feedback loop is to restructure how solutions are identified and evaluated. The authors suggest to share all possible solutions up front, instead of intiating discussions surrounding a few, and identifying other ideas as a result of earlier discussions. This way, all cards are layed out on the table from the beginning, and all solutions are critiqued together, allowing a decision to be made more quickly (128). The authors then outline how to go about making the decision to identify which components of various solutions the team should move forward with:</p>
+
+<ol>
+  <li>
+    <p><em>Art museum: Put the solution sketches on the wall with masking tape.</em></p>
+  </li>
+  <li>
+    <p><em>Heat map: Look at all the solutions in silence, and use dot stickers to mark interesting parts.</em></p>
+  </li>
+  <li>
+    <p><em>Speed critique: Quickly discuss the highlights of each solution, and use sticky notes to capture big ideas.</em></p>
+  </li>
+  <li>
+    <p><em>Straw poll: Each person chooses one solution, and votes for it with a dot sticker.</em></p>
+  </li>
+  <li>
+    <p><em>Supervote: The Decider makes the final decision, with - you guessed it - more stickers.</em> (131)</p>
+  </li>
+</ol>
+
+<p>The points that stand out to me about this five-step process are:</p>
+<ul>
+  <li>The speed critique for each solutions lasts for just three minutes (136)</li>
+  <li>The Decider (example: product manager/owner) must make honest decisions - it’s up to them to take in the feedback from the group, and decide if they agree with the consensus or not (140)</li>
+  <li>Test early. Whether it turns out to be a dud or spectacular, “it’s better to find out early” (168). This reminds me of one of my favorite quotes from the author Jen Sincero: “Deciding is freedom. Indecision is torture.”</li>
+</ul>
+
+<h2 id="best-practices">Best Practices</h2>
+
+<ul>
+  <li>
+    <p>Set the team up for success by building your line-up. An important common trait to have amongst members of the sprint team is that they have expertise. They have unique backgrounds that enable them to be invaluable members of the team (33).</p>
+  </li>
+  <li>
+    <p>As much as the team is chomping at the bit, excited to execute solutions, ensure the design sprint’s priorities are sorted first - lay out the plan, before jumping in (54-55).</p>
+  </li>
+  <li>
+    <p>The knowledge about the challenge you’re tackling is distributed amongst those familiar with it. Gather information from indiviudals who are included in the sprint team, along with individuals who are not included, but also have insights into the challenge at hand (68).</p>
+  </li>
+  <li>
+    <p><em>Work alone, together:</em> have individual brainstorms in the same room. Give individuals time to think and brainstorm ideas without being interrupted by one another (107).</p>
+  </li>
+  <li>
+    <p>Be optimistic when prototyping. You’ll find “<em>some way</em> to prototype and test your product” (169).</p>
+  </li>
+  <li>
+    <p>Reactions are much more valuable than feedback during a test. Pay close attention to how test subjects interact with the prototype (170).</p>
+  </li>
+  <li>
+    <p>When something appears to not be successful, it may be because “there’s [a] gap between the vision and the customer,” to quote Joe Gebbia, co-founder of Airbnb. Remedy that by talking to people (211).</p>
+  </li>
+</ul>
+
+<h2 id="tools">Tools</h2>
+
+<ul>
+  <li>
+    <p><a href="https://www.timetimer.com/">Time Timer</a>: a visual timer that shows the passage of time with a red disk (47)</p>
+  </li>
+  <li>
+    <p>Map it out: include the key players and major steps of the story or sequence of events (65)</p>
+  </li>
+  <li>
+    <p>How Might We (HMW) exercise: convert something interesting you heard into a question; capture “a problem and convert it into an opportunity” (75, 78)</p>
+  </li>
+  <li>
+    <p>Storyboards: “use your storyboard to imagine your finished prototype, so you can spot problems and points of confusion before the prototype is built” (149)</p>
+  </li>
+  <li>
+    <p>Color coding: color code observations (green = positive, red = negative, black = neutral) (220)</p>
+  </li>
+</ul>
+
+
+    </div>
+
+</article>
+<div class="post-nav">
+<a class="previous" href="/career/2021/01/18/project-management-human-anatomy.html" title="Project Anatomy">Project Anatomy</a><a class="next" href="/toolkit/2021/02/26/toolkit-february-2021.html" title="Toolkit 02">Toolkit 02</a>
+</div>
+<div class="post-related">
+      <div>Related Articles</div>
+      <ul>
+        <li><a class="post-link" href="/toolkit/2020/11/26/toolkit-november-2020.html" title="Toolkit 02">Toolkit 01</a></li>
+<li><a class="post-link" href="/productivity/2020/11/27/finding-your-flow-state.html" title="Toolkit 02">Getting in the flow</a></li>
+<li><a class="post-link" href="/projects/2020/12/16/christmas-decor-2020.html" title="Toolkit 02">DIY Christmas Decorations 2020</a></li>
+<li><a class="post-link" href="/book%20notes/2021/02/19/sprint-review.html" title="Toolkit 02">Sprint</a></li>
+</ul>
+    </div>
+<div class="post-comments"></div></section>
+</div>
+
+
+  </section>
+  <section class="sidebar" style="margin-left: 15px;">
+    <!-- Get sidebar items --><style type="text/css" media="screen">
+.post-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+</style>
+
+<div class="post-menu">
+  <div class="post-menu-title">TOC</div>
+  <div class="post-menu-content"></div>
+</div>
+
+<script>
+  function generateContent() {
+    var menu = document.querySelector(".post-menu");
+    var menuContent =  menu.querySelector(".post-menu-content");
+    var headings = document.querySelector(".post-content").querySelectorAll("h2, h3, h4");
+
+    // Hide menu when no headings
+    if (headings.length === 0) {
+      return menu.style.display = "none";
+    }
+
+    // Generate post menu
+    var menuHTML = '';
+    for (var i = 0; i < headings.length; i++) {
+      var h = headings[i];
+      menuHTML += (
+        '<li class="h-' + h.tagName.toLowerCase() + '">'
+        + '<a href="#h-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
+    }
+
+    menuContent.innerHTML = '<ul>' + menuHTML + '</ul>';
+
+    // The header element
+    var header = document.querySelector('header.site-header');
+
+    function doMenuCollapse(index, over_items) {
+      var items = menuContent.firstChild.children;
+
+      if (over_items == undefined) {
+        over_items = 20;
+      }
+
+      if (items.length < over_items) {
+        return;
+      }
+
+      var activeItem = items[index];
+      var beginItem = activeItem
+      var endItem = activeItem
+      var beginIndex = index;
+      var endIndex = index + 1;
+      while (beginIndex >= 0
+        && !items[beginIndex].classList.contains('h-h2')) {
+        beginIndex -= 1;
+      }
+      while (endIndex < items.length
+        && !items[endIndex].classList.contains('h-h2')) {
+        endIndex += 1;
+      }
+      for (var i = 0; i < beginIndex; i++) {
+        item = items[i]
+        if (!item.classList.contains('h-h2')) {
+          item.style.display = 'none';
+        }
+      }
+      for (var i = beginIndex + 1; i < endIndex; i++) {
+        item = items[i]
+        // if (!item.classList.contains('h-h2')) {
+          item.style.display = '';
+        // }
+      }
+      for (var i = endIndex; i < items.length; i++) {
+        item = items[i]
+        if (!item.classList.contains('h-h2')) {
+          item.style.display = 'none';
+        }
+      }
+    }
+
+    // Init menu collapsed
+    doMenuCollapse(-1);
+
+    // Active the menu item
+    window.addEventListener('scroll', function (event) {
+      var lastActive = menuContent.querySelector('.active');
+      var changed = true;
+      var activeIndex = -1;
+      for (var i = headings.length - 1; i >= 0; i--) {
+        var h = headings[i];
+        var headingRect = h.getBoundingClientRect();
+        var headerRect = header.getBoundingClientRect();
+        var headerTop = Math.floor(headerRect.top);
+        var headerHeight = Math.floor(headerRect.height);
+        var headerHeight = headerTop + headerHeight + 20;
+        if (headingRect.top <= headerHeight) {
+          var id = 'h-' + h.getAttribute('id');
+          var a = menuContent.querySelector('a[href="#' + id  + '"]');
+          var curActive = a.parentNode;
+          if (curActive) {
+            curActive.classList.add('active');
+            activeIndex = i;
+          }
+          if (lastActive == curActive) {
+            changed = false;
+          }
+          break;
+        }
+      }
+      if (changed) {
+        if (lastActive) {
+          lastActive.classList.remove('active');
+        }
+        doMenuCollapse(activeIndex);
+      }
+      event.preventDefault();
+    });
+  }
+  generateContent();
+</script>
+</section>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner">
+      <div>Copyright © 2020 @Tamzin Atkins</div>
+      <!-- <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
+      generator." href="http://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
+      another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div> -->
+      <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a>
+</div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
